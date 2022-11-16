@@ -1,0 +1,12 @@
+Class
+{
+void meth1
+{
+System.out.println("------HI--------");
+}
+public static void main(String[] args)
+{
+classA obj=new ClassA();
+obj.meth1;
+}
+}
