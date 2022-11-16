@@ -1,4 +1,4 @@
-package cloudpkg;
+package SoftSolutions;
 
 /**
  * Hello world!
